@@ -25,8 +25,12 @@ public class RobotGraffiti {
 		jaja.move(400);
 		jaja.turn(-90);
 		jaja.move(200);
-		
-		
+		jaja.setY(400);
+		jaja.turn(180);
+		jaja.move(200);
+		jaja.setY(200);
+		jaja.turn(180);
+		jaja.move(200);
 		
 		
 	}
